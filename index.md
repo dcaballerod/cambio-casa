@@ -1,4 +1,4 @@
-## Viaje de Isabel, Cristián y Dani
+## Viaje de Isabelita, Cris & Dani
 
 Partimos una nueva aventura en el hemisferio norte. Esta vez nos vamos por un tiempo más largo. 
 
@@ -10,7 +10,6 @@ Hicimos esta página para organizar un poco nuestra partida. Aquí pondremos a d
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -26,14 +25,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dcaballerod/viaje/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
